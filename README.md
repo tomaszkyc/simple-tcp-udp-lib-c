@@ -20,4 +20,4 @@ UNIX-family system (I've tested this solution on Ubuntu 18.04 LTS)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
